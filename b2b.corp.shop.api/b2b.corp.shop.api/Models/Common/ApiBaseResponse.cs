@@ -20,7 +20,7 @@
             return new ApiBaseResponse<T>
             {
                 Context = new ResponseContext(transactionId, statusCode, DateTimeOffset.UtcNow.ToUnixTimeMilliseconds(), message),
-                Response = default(T)
+                Response = default
             };
         }
     }
