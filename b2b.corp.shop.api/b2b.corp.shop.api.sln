@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b2b.corp.shop.api", "b2b.co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b2b.corp.shop.api.Tests", "b2b.corp.shop.api.Tests\b2b.corp.shop.api.Tests.csproj", "{3B3C1B86-3BD9-472A-69E5-FC0AA9A009F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b2b.corp.shop.dbmodel", "b2b.corp.shop.dbmodel\b2b.corp.shop.dbmodel.csproj", "{92F64973-E808-4EC3-BADC-D656AEB57102}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3B3C1B86-3BD9-472A-69E5-FC0AA9A009F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B3C1B86-3BD9-472A-69E5-FC0AA9A009F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B3C1B86-3BD9-472A-69E5-FC0AA9A009F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F64973-E808-4EC3-BADC-D656AEB57102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F64973-E808-4EC3-BADC-D656AEB57102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F64973-E808-4EC3-BADC-D656AEB57102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F64973-E808-4EC3-BADC-D656AEB57102}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
