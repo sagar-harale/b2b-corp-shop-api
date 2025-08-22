@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace b2b.corp.shop.dbmodel.Context
 {
-    public class TravelQuotationDbContext : DbContext
+    public class AppDbContext : DbContext
     {
-        public TravelQuotationDbContext(DbContextOptions<TravelQuotationDbContext> options)
+        public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
         {
         }

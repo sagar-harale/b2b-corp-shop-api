@@ -25,7 +25,7 @@ namespace b2b.corp.shop.dbmodel.DI
             services.AddSingleton(dataSource);
 
             // --- Register DbContext ---
-            services.AddDbContext<TravelQuotationDbContext>((sp, opt) =>
+            services.AddDbContext<AppDbContext>((sp, opt) =>
             {
                 var ds = sp.GetRequiredService<NpgsqlDataSource>();
                 opt.UseNpgsql(ds, npg => npg.UseNetTopologySuite());

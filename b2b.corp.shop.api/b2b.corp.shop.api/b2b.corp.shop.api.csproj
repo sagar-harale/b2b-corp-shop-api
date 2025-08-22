@@ -14,4 +14,7 @@
   <ItemGroup>
     <PackageReference Include="Amazon.Lambda.AspNetCoreServer" Version="9.0.2" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\b2b.corp.shop.dbmodel\b2b.corp.shop.dbmodel.csproj" />
+  </ItemGroup>
 </Project>
