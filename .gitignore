@@ -7,9 +7,9 @@
 /b2b.corp.shop.api/b2b.corp.shop.api/obj
 /b2b.corp.shop.api/b2b.corp.shop.api.Tests/bin/Debug/net8.0
 /b2b.corp.shop.api/b2b.corp.shop.api.Tests/obj
-/b2b.corp.shop.api/b2b.corp.shop.api/bin/Debug/net8.0
-/b2b.corp.shop.api/b2b.corp.shop.dbmodel/bin/Debug/net8.0
+/b2b.corp.shop.api/b2b.corp.shop.api/bin/*
+/b2b.corp.shop.api/b2b.corp.shop.dbmodel/bin/*
 /b2b.corp.shop.api/b2b.corp.shop.dbmodel/obj
 /b2b.corp.shop.api/b2b.corp.shop.api/bin/Release/net8.0
-/b2b.corp.shop.api/.vs/CopilotSnapshots/28F16203D00947488779489B066C0451
-/b2b.corp.shop.api/.vs/CopilotSnapshots/28F16203D00947488779489B066C0451
+/b2b.corp.shop.api/.vs
+/b2b.corp.shop.api/.vs
