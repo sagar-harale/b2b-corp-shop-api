@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/b2b.corp.shop.api/.vs/b2b.corp.shop.api
+/b2b.corp.shop.api/b2b.corp.shop.api/obj
+/b2b.corp.shop.api/b2b.corp.shop.api.Tests/bin/Debug/net8.0
+/b2b.corp.shop.api/b2b.corp.shop.api.Tests/obj

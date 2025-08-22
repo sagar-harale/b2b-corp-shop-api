@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b2b.corp.shop.api", "b2b.corp.shop.api\b2b.corp.shop.api.csproj", "{79A34B84-CA84-5F8D-6751-4FAB3FD0281F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b2b.corp.shop.api.Tests", "b2b.corp.shop.api.Tests\b2b.corp.shop.api.Tests.csproj", "{3B3C1B86-3BD9-472A-69E5-FC0AA9A009F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A34B84-CA84-5F8D-6751-4FAB3FD0281F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A34B84-CA84-5F8D-6751-4FAB3FD0281F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A34B84-CA84-5F8D-6751-4FAB3FD0281F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A34B84-CA84-5F8D-6751-4FAB3FD0281F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3C1B86-3BD9-472A-69E5-FC0AA9A009F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3C1B86-3BD9-472A-69E5-FC0AA9A009F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3C1B86-3BD9-472A-69E5-FC0AA9A009F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3C1B86-3BD9-472A-69E5-FC0AA9A009F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8E5BF81-4A01-4D33-A408-1314B4B1726F}
+	EndGlobalSection
+EndGlobal
